@@ -24,4 +24,18 @@ One of the most important goeals from this analysis was to see the candidates re
 ### coding
 ![percetage_by_candidate.png](percetage_by_candidate.png)
 
+this shows that the winner was Diana DeGette who received 73.8% of the votes and a total of 272,892 votes.
+
+##Election-Audit Summary
+
+The results are clear and shows that the winner was Diana DeGette who received 73.8% of the votes and a total of 272,892 votes and it also show Denver with the biggest turn out with a total of 306,055 votes.
+
+My proposition for future elections are as followed
+ * Collect the type of votes (strings) (ballots , electronic, scanned)
+    * use the same type of script used to get the counties and Analyze the turnout for each type of vote, as we have seen in past elections, the method of voting affects the results.
+ * identify Genders:
+    * I would use the same cript but change the strings to Genders, this will show if voters are biased by the Gender of the candiate.
+  
+      
+
 
