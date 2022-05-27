@@ -7,3 +7,11 @@ Additionally we will analyze the county turnout, we will run coding that will gi
 
 ## Election-Audit Results
 ![election_analysis.png](election_analysis.png)
+
+The result of the election shows that a total of 369,711 votes were casted. these votes were divided in 3 counties as followed:
+* Jefferson: 10.5% (38,855)
+* Denver: 82.8% (306,055)
+* Arapahoe: 6.7% (24,801)
+the coding used to get these numbers is shown below.
+![total number of votes per county.png](total number of votes per county.png)
+
