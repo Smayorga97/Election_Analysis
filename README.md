@@ -14,5 +14,5 @@ The result of the election shows that a total of 369,711 votes were casted. thes
 * Arapahoe: 6.7% (24,801)
 the coding used to get these numbers is shown below.
 
-![total number of votes per county.png](total number of votes per county.png)
+![total_number_of_votes_per_county.png](total_number_of_votes_per_county.png)
 
