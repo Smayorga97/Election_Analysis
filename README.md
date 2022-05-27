@@ -24,6 +24,8 @@ One of the most important goeals from this analysis was to see the candidates re
 ### coding
 ![percetage_by_candidate.png](percetage_by_candidate.png)
 
+## Election-Audit Summary
+
 this shows that the winner was Diana DeGette who received 73.8% of the votes and a total of 272,892 votes.
 
 ##Election-Audit Summary
